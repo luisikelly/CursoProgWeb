@@ -1,0 +1,43 @@
+.buttons{
+    text-align: right;
+}
+.btn{
+    color: white;
+    border: white;
+    border-radius: 200px 200px 200px 200px;
+    width: 80px;
+    height: 80px;
+    font-size: 75px;
+    text-align: center;
+}
+.agregar{
+    background: lawngreen;
+}
+.sacar {
+    background: red;
+}
+.sala{
+    margin: 25px;
+    padding: 50px;
+}
+.mesa{
+    text-align: center;
+    margin: 10px;
+    display: flex;
+}
+.table{
+    flex:1;
+    height: 200px;
+    width: 400px;
+}
+.sillas {
+    text-align: center;
+}
+.puntas{
+    flex: 1;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+
